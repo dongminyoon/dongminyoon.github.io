@@ -1,10 +1,8 @@
 ---
-​---
 layout: post
-title: GCD 비동기 처리
+title: GCD - DispatchQueue
 tags: [iOS, Swift, Network]
-author: DongMin Yoon
-​---
+excerpt_separator: <!--more-->
 ---
 
  🔵 ***Grand Central Dispatch(GCD)***
